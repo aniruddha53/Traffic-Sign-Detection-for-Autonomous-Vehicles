@@ -1,1 +1,1 @@
-# Traffic-Signal-Detection-for-Autonomous-Vehicles
+# Traffic-Sign-Detection-for-Autonomous-Vehicles
