@@ -18,4 +18,4 @@ IMPLEMENTATION METHODOLOGY:
 
 Final Outcomes:
 • Our model successfully classified traffic signs from the internet.
-•	Modified leNet model and achieved training accuracy of  98.09% and validation accuracy of  99.12%.
+•	Modified leNet model and achieved training accuracy of 99.12% and validation accuracy of 98.09%.
